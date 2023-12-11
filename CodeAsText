@@ -109,7 +109,7 @@ ylim([-2.7 2.7])
 title("Hydropathy Plot of",(seqtitle))
 %Hydropathy plot created and its nice and pretty, 3. complete
 %The plot is inside of the for loop so that a new one is created for each
-%protein. figure is used to
+%protein. figure is used to output each plot even though its in the loop.
     else 
     end
 end
