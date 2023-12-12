@@ -7,6 +7,6 @@ I have also added screen recordings of me running the code and the txt files use
 
 Downloading MATLAB: follow the instructions outline in the pdf titled "MatLab-Installation-Instructions-WVU". Its rather quick, honestly. 
 
-Input: This program will accept amino acid sequences in FASTA format text files. Meaning that a ">" must be denoted to indicated the name of the sequence, afterwhich the amino acid sequence as a single line is given. 
+Input: This program will accept amino acid sequences in FASTA format text files. Meaning that a ">" must be used to indicated the name of the sequence (or whatever identifying information may come after it), afterwhich the amino acid sequence as a single line is given. 
 
 Output: This program will output hydropathy plots of each protein. 
